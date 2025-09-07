@@ -1,2 +1,2 @@
 # ForAchievements
-new CHIVMNET
+new ACHIVMNET
